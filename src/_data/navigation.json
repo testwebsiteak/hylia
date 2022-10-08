@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "Blog",
-      "url": "blog",
-      "external": ""
-    },
-    {
       "text": "Home",
       "url": "/",
       "external": false
@@ -16,19 +11,24 @@
       "external": ""
     },
     {
+      "text": "Blog",
+      "url": "blog",
+      "external": ""
+    },
+    {
       "text": "Publications",
       "url": "publications",
       "external": ""
     },
     {
-      "text": "Test link to GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
-    },
-    {
       "text": "Contact",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Test link to GitHub",
+      "url": "https://github.com/hankchizljaw/hylia",
+      "external": true
     }
   ]
 }
