@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "Publications",
+      "url": "publications",
+      "external": ""
+    },
+    {
       "text": "Home",
       "url": "/",
       "external": false
