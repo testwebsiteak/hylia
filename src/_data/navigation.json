@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "text": "Publications",
-      "url": "publications",
+      "text": "Blog",
+      "url": "blog",
       "external": ""
     },
     {
@@ -13,6 +13,11 @@
     {
       "text": "About",
       "url": "about",
+      "external": ""
+    },
+    {
+      "text": "Publications",
+      "url": "publications",
       "external": ""
     },
     {
