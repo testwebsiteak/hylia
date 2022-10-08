@@ -6,6 +6,11 @@
       "external": false
     },
     {
+      "text": "About",
+      "url": "about",
+      "external": ""
+    },
+    {
       "text": "Test link to GitHub",
       "url": "https://github.com/hankchizljaw/hylia",
       "external": true
