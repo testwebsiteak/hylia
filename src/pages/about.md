@@ -1,3 +1,13 @@
+---
+title: 'About'
+permalink: '/about/index.html'
+layout: 'layouts/contact.njk'
+---
+
+You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
+
+To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+
 Anandana Kapur is a Visiting Fellow at the Ash Center for Democratic Governance and Innovation for the 2022-2023 academic year. She is founder-director Cinemad India, a film startup that focuses on media literacy and digital storytelling. 
 
 A keen follower of the intersection of tech, art and public interest, her recent work seeks to bridge the digital divide using Augmented Reality and AI. As a documentary maker and researcher, she also focuses on gender equity, culture and mobility. 
